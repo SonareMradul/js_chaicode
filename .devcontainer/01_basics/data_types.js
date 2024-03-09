@@ -9,12 +9,12 @@ let isLogged = true
 let state
 // data types are started with capital letter in js except null & undefined because they are not proper data types
 // Number => 2 to the power 53
-// BigInt
+// BigInt => numbers bigger than Number
 // String => ""
 // Boolean => true/false
 // null => standalone value
 // undefined =>
 // Symbol => unique
 // object
-console.log(typeof (undefined))
-console.log(typeof (null))
+console.log(typeof (undefined)) //undefined
+console.log(typeof (null)) // object
